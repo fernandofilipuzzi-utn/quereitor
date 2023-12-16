@@ -40,6 +40,6 @@ La siguiente Figura ilustra su uso.
      <p>Figura 2. Consola Web, ejemplo de uso </p>
   </div>
 
-  En el ejemplo se instancia dos objetos y se conforma un array, la clase Persona es parte de un proyecto de clases incluido como una dll.
+  En el ejemplo se instancian dos objetos y se conforma un array. El array es devuelto y serializado en un objeto json, y finalmente se imprime en la saldia. La clase Persona es parte de un proyecto de clases incluido como una dll.
   
 </details>
