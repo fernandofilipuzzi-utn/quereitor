@@ -16,7 +16,8 @@ Aún hay problemas a resolver:
         <p>Figura 1. Vista del menú principal</p>
   </div>
 
-Para correr codigo es necesario respetar la siguiente clase 
+Para correr el código es necesario respetar la siguiente clase :
+
 ```csharp
 using EjemploClassLib;
 using System.Data;
