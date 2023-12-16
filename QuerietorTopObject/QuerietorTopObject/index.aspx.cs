@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace QuerietorTier
+namespace QuerietorTopObject
 {
     public partial class _index : Page
     {
@@ -13,8 +13,6 @@ namespace QuerietorTier
         {
 
         }
-
-
        
     }
 }

@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="QuerietorTier.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="QuerietorTopObject.Global" Language="C#" %>

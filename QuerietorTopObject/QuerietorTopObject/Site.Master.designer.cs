@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace QuerietorTier
+namespace QuerietorTopObject
 {
 
 
