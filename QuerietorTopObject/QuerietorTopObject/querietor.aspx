@@ -61,7 +61,8 @@
                         lineNumbers: true,
                         mode: "text/x-csharp",
                         height: "auto",
-                        viewportMargin: Infinity
+                        viewportMargin: Infinity,
+                        theme: "dracula"
                     });
 
                     window.codeMirrorEditor = editor;
