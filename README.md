@@ -10,17 +10,17 @@ Aún hay problemas a resolver:
      
 
 ###  Vista Web
-<details>
+<details open>
 <summary>Implementación web</summary>
 
   <div align="center">
-        <img style="width:40%;" src="QuerietorTopObject/QuerietorTopObject/docs/pantallazo_menu.jpg"/>
+        <img style="width:80%;" src="QuerietorTopObject/QuerietorTopObject/docs/pantallazo_menu.jpg"/>
         <p>Figura 1. Vista del menú principal</p>
   </div>
 
 
   <div align="center">
-     <img style="width:40%;" src="QuerietorTopObject/QuerietorTopObject/docs/pantallazo_query_object.jpg"/>
+     <img style="width:80%;" src="QuerietorTopObject/QuerietorTopObject/docs/pantallazo_query_object.jpg"/>
      <p>Figura 2. Consola </p>
   </div>
 </details>
