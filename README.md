@@ -1,7 +1,7 @@
 # querietor
 
 ### Descripción
-La idea principal es poder correr c# en vivo desde una consola web de una forma similar a como se puede correr sentencias sql. 
+La idea principal es poder correr c# en vivo desde una consola web de una forma similar a como se pueden correr sentencias sql en el administrador de la base de datos. 
 
 Aún hay problemas a resolver:
 - Hay que agregar un control para que se pueda cargar las ddls con las clases que se quiera usar.
