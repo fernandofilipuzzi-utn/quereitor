@@ -16,7 +16,7 @@
         </div>
 
         <div class="container text-center p-2 m-2">
-            <asp:LinkButton ID="btnPrueba" OnClick="btnPrueba_Click" CssClass="btn btn-primary" runat="server">Correr<i class="fa fa-solid fa-play"></i></asp:LinkButton>
+            <asp:LinkButton ID="btnPrueba" OnClick="btnPrueba_Click" CssClass="btn btn-primary" runat="server">Correr <i class="fa fa-solid fa-play"></i></asp:LinkButton>
         </div>
     </div>
 
