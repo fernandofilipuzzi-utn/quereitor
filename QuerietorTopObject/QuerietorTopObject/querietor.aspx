@@ -37,8 +37,10 @@
 
     <script>
 
-        function initializeCodeMirror() {
-            var editor = CodeMirror(document.getElementById("codeEditor"), {
+        function initializeCodeMirror()
+        {
+            var editor = CodeMirror(document.getElementById("codeEditor"),
+                {
                 lineNumbers: true,
                 mode: "text/x-csharp",
                 height: "auto",
@@ -49,7 +51,8 @@
 
             window.codeMirrorEditor = editor;
 
-            editor.on("change", function () {
+            editor.on("change", function ()
+            {
                 document.getElementById('hdnCodeMirrorEditorValue').value = editor.getValue();
             });
         }

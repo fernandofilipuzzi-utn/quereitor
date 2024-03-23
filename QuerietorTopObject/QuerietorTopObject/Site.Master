@@ -126,7 +126,8 @@
                     </div>
 
                     <script>
-                        function mostrarModal(resultado) {
+                        function mostrarModal(resultado)
+                        {
                             document.getElementById('pMensaje').innerHTML = resultado;
                             $('#exampleModal').modal('show');
                         }
